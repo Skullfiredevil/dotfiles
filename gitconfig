@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jotipinto@gmail.com
+	name = Tiago Pinto
